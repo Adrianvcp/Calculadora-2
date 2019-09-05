@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="ingresen1">Ingrese Numero 1</string>
+    <string name="ingrese2">Ingrese Numero 2</string>
+    <string name="btnSumar">sumar</string>
+    <string name="btnLimpiar">Limpiar</string>
+    <string name="btnSalir">Salir</string>
+
+
+</resources>
